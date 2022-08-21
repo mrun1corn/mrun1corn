@@ -1,5 +1,5 @@
 ![Begginer custom rom developer](https://photos.google.com/photo/AF1QipNfR8ujK43JKDf-R_QPnlj_gX7Y1G8jrWdHkuj1)
-### Hi there 👋, Hi! I am Robin
+### Hi there 👋,I am Robin
 #### Begginer custom rom developer
 
 I am trying to be a professional aosp developer. I love to earning new things. And custom rom development is like a challanging thing
