@@ -2,7 +2,7 @@
 ### Hi there 👋, I am Robin
 #### Begginer custom rom developer
 
-I am trying to be a professional aosp developer. I love to earning new things. And custom rom development is like a challanging thing
+I am trying to be a professional aosp developer. I love to learning new things. And custom rom development is like a challanging thing
 
 Skills: GIT/ MIKROTIK ROUTER/ CISCO ROUTER, SWITCH
 
