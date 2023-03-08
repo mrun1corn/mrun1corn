@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **aosp, custom rom development**
 
-- 💬 Ask me about **git, custom tom**
+- 💬 Ask me about **git, custom rom, networking stuff**
 
 - 📫 How to reach me **robinisalegend01@gmail.com**
 
