@@ -1,28 +1,23 @@
 ![Begginer custom rom developer](https://github.com/mrun1corn/mrun1corn/blob/main/Robin.jpg)
-### Hi there 👋, I am Robin
-#### Begginer custom rom developer
+<h1 align="center">Hi 👋, I'm Robin</h1>
+<h3 align="center">A passionate aosp/ custom rom developer from BD</h3>
 
-I am trying to be a professional aosp developer. I love to learning new things. And custom rom development is like a challanging thing
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrun1corn&label=Profile%20views&color=0e75b6&style=flat" alt="mrun1corn" /> </p>
 
-Skills: GIT/ MIKROTIK ROUTER/ CISCO ROUTER, SWITCH
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrun1corn" alt="mrun1corn" /></a> </p>
 
-- 💬 Ask me about Git, Rom development, Netoworking stuffs 
+- 🌱 I’m currently learning **aosp, custom rom development**
 
+- 💬 Ask me about **git, custom tom**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrun1corn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/itz.robin.boo)  
+- 📫 How to reach me **robinisalegend01@gmail.com**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrun1corn)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrun1corn&show_icons=true&locale=en&layout=compact" alt="mrun1corn" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrun1corn)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrun1corn&show_icons=true&locale=en" alt="mrun1corn" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrun1corn&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrun1corn)  
-
-![GitHub metrics](https://metrics.lecoq.io/mrun1corn)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrun1corn)  
-
-![Profile views](https://gpvc.arturio.dev/mrun1corn)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrun1corn&" alt="mrun1corn" /></p>
