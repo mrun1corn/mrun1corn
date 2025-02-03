@@ -1,4 +1,4 @@
-![Begginer custom rom developer](https://github.com/mrun1corn/mrun1corn/blob/main/Robin.jpg)
+![LARNER](https://github.com/mrun1corn/mrun1corn/blob/main/Robin.jpg)
 <h1 align="center">Hi 👋, I'm Robin</h1>
 <h3 align="center">A Retired aosp/ custom rom developer from BD</h3>
 
@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrun1corn" alt="mrun1corn" /></a> </p>
 
-- 🌱 I’m currently learning **aosp, custom rom development**
-
-- 💬 Ask me about **git, custom rom, networking stuff**
+- 💬 Ask me about **git, custom rom, networking stuff, server, vps**
 
 - 📫 How to reach me **robinisalegend01@gmail.com**
 
