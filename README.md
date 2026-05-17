@@ -19,7 +19,6 @@ Background in **AOSP & custom ROM development** (as a hobby) has deepened my und
 **C++ Developer — BFIN IT**  
 📅 April 2026 – Present  
 - Software development in C++
-- Collaborating on fintech/IT solutions
 - Debugging and system-level problem solving
 
 ---
