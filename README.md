@@ -119,7 +119,7 @@ BRAC Institute of Skills Development
 ## 📫 Contact
 
 - 📧 Email: **robin424123@gmail.com**
-- 📍 Location: Keraniganj, Dhaka, Bangladesh
+- 📍 Location: Mohammadpur, Dhaka, Bangladesh
 - 💼 Open to: **C++ Development / Server Administration / IT Support roles**
 - 🌏 Preferred Countries: India, Saudi Arabia, Singapore
 
