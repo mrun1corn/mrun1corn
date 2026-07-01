@@ -18,7 +18,6 @@ IT professional with hands-on experience in **C++ development**, **Linux server 
 - 🎓 Pursuing **BSc in CSE** at University of South Asia
 - 🌍 Based in **Mohammadpur, Dhaka, Bangladesh**
 - 💼 Open to **C++ Development / Server Administration / IT Support** roles
-- 🌏 Open to relocation: India, Saudi Arabia, Singapore
 
 ---
 
